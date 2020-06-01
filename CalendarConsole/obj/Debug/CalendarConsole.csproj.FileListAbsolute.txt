@@ -1,0 +1,8 @@
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarConsole\bin\Debug\CalendarConsole.exe.config
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarConsole\bin\Debug\CalendarConsole.exe
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarConsole\bin\Debug\CalendarConsole.pdb
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarConsole\obj\Debug\CalendarConsole.csprojResolveAssemblyReference.cache
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarConsole\obj\Debug\CalendarConsole.exe
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarConsole\obj\Debug\CalendarConsole.pdb
+C:\Users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarConsole\bin\Debug\Calendar.dll
+C:\Users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarConsole\bin\Debug\Calendar.pdb

@@ -1,0 +1,8 @@
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarTests\bin\Debug\CalendarTests.dll
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarTests\bin\Debug\CalendarTests.pdb
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarTests\bin\Debug\Calendar.dll
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarTests\bin\Debug\Calendar.pdb
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarTests\obj\Debug\CalendarTests.csprojResolveAssemblyReference.cache
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarTests\obj\Debug\CalendarTests.dll
+c:\users\khahn\documents\visual studio 2015\Projects\CalendarConsole\CalendarTests\obj\Debug\CalendarTests.pdb
